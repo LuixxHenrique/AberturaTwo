@@ -1,0 +1,7 @@
+{
+  "name": "AberturaTwo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
